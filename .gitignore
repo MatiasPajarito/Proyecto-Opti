@@ -1,0 +1,6 @@
+mi_entorno/
+__pycache__/
+*.log
+*.lp
+*.ilp
+.vscode/

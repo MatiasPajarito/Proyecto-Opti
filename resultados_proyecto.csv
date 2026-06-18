@@ -1,0 +1,16 @@
+Instancia,Estado,Plantas,CD_Disponibles,Zonas,Limite_P_Max,CD_Abiertos,Costo_Total,Tiempo_Segundos
+Grande_1,Optimal,22,28,31,25,16,119615.0,0.2021
+Grande_2,Optimal,31,25,37,18,12,108807.0,0.426
+Grande_3,Optimal,25,31,37,23,15,113185.0,0.3439
+Grande_4,Optimal,35,29,45,4,4,102786.0,81.277
+Grande_5,Optimal,23,36,31,7,6,71369.0,5.0834
+Mediana_1,Optimal,12,20,16,4,3,42541.0,0.1224
+Mediana_2,Optimal,16,20,16,10,7,60238.0,0.134
+Mediana_3,Optimal,19,14,26,8,6,74773.0,0.1788
+Mediana_4,Optimal,14,14,22,12,8,74917.0,0.0907
+Mediana_5,Optimal,11,22,27,16,11,98211.0,0.2854
+Pequeña_1,Optimal,6,10,10,6,4,40943.0,0.0599
+Pequeña_2,Optimal,9,9,10,6,4,36796.0,0.0493
+Pequeña_3,Optimal,3,12,10,3,3,26704.0,0.0513
+Pequeña_4,Optimal,3,12,9,8,5,40447.0,0.0517
+Pequeña_5,Optimal,5,12,11,4,3,34596.0,0.0518
